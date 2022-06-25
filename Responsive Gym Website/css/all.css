@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  border-radius: 20px;
+}
+
+body {
+  background-color: hsl(0, 0%, 15%);
+  color: hsl(56, 99%, 52%);
+  border-style: solid;
+}
+
+#course {
+  margin: 10px 10%;
+  text-align: center;
+  color: white;
+
+}
+
+.box {
+  padding: 10px;
+}
+
+.box1 {
+  margin: 0 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+fieldset {
+  padding: 20px;
+}
