@@ -1,1 +1,2 @@
 # Gym-Website
+A gym website is created to address fitness and health concerns. The given website will be helpful to members because it will guide them in doing proper exercise and improve their productivity. It will help users directly interact with trainers and address their issues. Also, they will have fun playing the game (gym-related) on the website. This website will include various sections such as courses, trainers’ information, business services, and a contact section.
